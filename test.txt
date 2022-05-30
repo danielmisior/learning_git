@@ -1,2 +1,2 @@
 Example how to create new file.
-Edit
+Edit.
